@@ -3,3 +3,4 @@ MultiChart &amp; Python
 
 ### Data: CFFEX.IC HOT.rar
 ### Exploratory Data analysis: CSI500.ipynb
+### Strategy: ORB、Price difference、 Decision Tree
